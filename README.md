@@ -1,4 +1,4 @@
-# Ceasar-Code-Augmented
+# Caesar-Code-Augmented
 
 Ang :
 The famous Ceasar Code revisited. This version allows, unlike the common one, for each word to have its own specific shift number depending on 2 factors : 
