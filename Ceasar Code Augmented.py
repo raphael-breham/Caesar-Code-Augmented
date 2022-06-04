@@ -52,7 +52,8 @@ for i in range(len_p_b):
 
         return mot_code
 
-
+    
+    
     def decal_lettres_maj(mot_phrase, decalage):  # decale les lettres majuscules
         def creat_dico(majuscules, decal):
             dico = {}
